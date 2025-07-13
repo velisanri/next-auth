@@ -20,7 +20,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-About the Project
+## About the Project
+
 This project is a modern web application built with Next.js 14+ and NextAuth.js, featuring Auth0 OAuth for authentication, JWT-based session management, and role-based authorization. It is developed using TypeScript and TailwindCSS.
 
 What I Have Implemented
