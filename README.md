@@ -20,17 +20,24 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+About the Project
+This project is a modern web application built with Next.js 14+ and NextAuth.js, featuring Auth0 OAuth for authentication, JWT-based session management, and role-based authorization. It is developed using TypeScript and TailwindCSS.
 
-To learn more about Next.js, take a look at the following resources:
+What I Have Implemented
+Integration of Auth0 OAuth provider for user login.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+JWT-based session handling with NextAuth.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Role-based authorization and page protection for users (admin, user).
 
-## Deploy on Vercel
+Page access control using Middleware.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Developed login, dashboard, and admin pages using React and Next.js App Router.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Customized callback configurations with TypeScript for type safety.
+
+Containerized production environment with Docker.
+
+Professional code management with Git branching and versioning.
+
+The project development follows SOLID principles and the 12Factor App methodology as a foundation.
