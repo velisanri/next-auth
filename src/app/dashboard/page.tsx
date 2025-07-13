@@ -31,8 +31,8 @@ export default function Dashboard() {
         onClick={() => signOut({ callbackUrl: "/login" })}
         className="bg-red-600 hover:bg-red-700 text-white font-semibold py-2 px-6 rounded-md transition-colors duration-300"
       >
-        Çıkış Yap
+        Çıkış Yaps
       </button>
     </main>
-  );
+  ); 
 }
